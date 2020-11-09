@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4:25.3.1@aar">
+    <CLASSES>
+      <root url="file://D:/Software/android-sdk-windows/.android/build-cache/1670397e56a44be5636ecb6d0c74a8b7e7708143/output/AndroidManifest.xml" />
+      <root url="jar://D:/Software/android-sdk-windows/.android/build-cache/1670397e56a44be5636ecb6d0c74a8b7e7708143/output/jars/classes.jar!/" />
+      <root url="file://D:/Software/android-sdk-windows/.android/build-cache/1670397e56a44be5636ecb6d0c74a8b7e7708143/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

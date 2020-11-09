@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\6b0e350adcefd5af7725d73b65899600b619a4ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_782c6423eeae91537bdea69f21d33cbfc350ffcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\1670397e56a44be5636ecb6d0c74a8b7e7708143\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_985443518d397c3ac79daf3fb6be0d31891f5ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\我\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6e2e3e41e05546867c9b0969c09a93209d5b3941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\6ba3706519f0a9586832b631c492879b0ee8e66b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_89a3542fa3158a464695e953d00973df41cec4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\MPChartLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30fe5ba6ba1b87b1a837cc4ecbe20ee42e49767c">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_514f2ef223608d6ca5a8030e70d128834c1320e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\48a41d0554ee3c44580ab8be398806f81aa8205f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_334c7e9af29e3967be05547d010ee9265c13b30d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\21dad417d2f05ff9315abedbdf34355cc84c6e1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_85f57516908a665622fc1bf893e2b3142946183a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\libs\mpandroidchartlibrary-2-1-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f58cc07df07ce418ae9b0336659ee1a69dd21fb3">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-3_905bc6422fe7f80671a4769ff3ce1a5b815c3294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Software\android-sdk-windows\.android\build-cache\c65786b2eb876d30b492337deef053f67f2343a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Android\MPAndroidChartDemoByJin\MPAndroidChartDemo\app\build\intermediates\pre-dexed\debug\classes_6704a65e818db270c6635746eebb68e2c7b68531.jar" />
+    </item>
+
+</items>
